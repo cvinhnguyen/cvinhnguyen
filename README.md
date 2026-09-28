@@ -11,4 +11,4 @@ The dsgex code is private, so here is what it adds up to so far:
 
 I'm teaching myself data science, end to end, and will put those projects here as I finish them.
 
-[Portfolio](https://cvinhnguyen.github.io) · [LinkedIn](https://www.linkedin.com/in/congvinhnguyen/) · congvinhnguyen.job@gmail.com
+[Portfolio](https://cvinhnguyen.github.io) · [CV](https://drive.google.com/file/d/1-x2dPleWO9pzMKLqURs3C2Pci5iqCPuT/view) · [LinkedIn](https://www.linkedin.com/in/congvinhnguyen/) · congvinhnguyen.job@gmail.com
