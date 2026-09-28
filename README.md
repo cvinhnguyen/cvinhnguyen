@@ -2,7 +2,7 @@
 
 I'm a software developer in Finland and the only engineer on [dsgex.ai](https://dsgex.ai), a desktop app that shows traders real-time options flow and dealer positioning. I also study Computer Applications at HAMK.
 
-The dsgex code is private, so here is what it adds up to since March 2026:
+The dsgex code is private, so here is what it adds up to so far:
 
 - 2,865 commits on 164 different days
 - A Go service that ingests market data, runs the analytics and serves clients over WebSockets, with 1,312 tests
