@@ -14,12 +14,9 @@ The dsgex code is private, so here is the short version:
 
 <img src="https://skillicons.dev/icons?i=go,ts,nextjs,rust,tauri,cs,postgres,py" alt="Go, TypeScript, Next.js, Rust, Tauri, C#, PostgreSQL, Python">
 
-### Activity
-
-<img src="github-metrics.svg" alt="GitHub contribution calendar for the past year" width="100%">
-
 ### Contact
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-cvinhnguyen.github.io-111?style=flat-square)](https://cvinhnguyen.github.io)
 [![CV](https://img.shields.io/badge/CV-PDF-2f6feb?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-x2dPleWO9pzMKLqURs3C2Pci5iqCPuT/view)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-congvinhnguyen-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/congvinhnguyen/)
 [![Email](https://img.shields.io/badge/Email-congvinhnguyen.job%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white)](mailto:congvinhnguyen.job@gmail.com)
