@@ -14,6 +14,10 @@ The dsgex code is private, so here is the short version:
 
 <img src="https://skillicons.dev/icons?i=go,ts,nextjs,rust,tauri,cs,postgres,py" alt="Go, TypeScript, Next.js, Rust, Tauri, C#, PostgreSQL, Python">
 
+### Activity
+
+<img src="github-metrics.svg" alt="GitHub contribution calendar for the past year" width="100%">
+
 ### Contact
 
 [![CV](https://img.shields.io/badge/CV-PDF-2f6feb?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-x2dPleWO9pzMKLqURs3C2Pci5iqCPuT/view)
